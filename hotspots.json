@@ -3,105 +3,105 @@
     "id": "1",
     "name": "Gamestate De Kuip",
     "coordinates": { "latitude": 51.8659, "longitude": 4.5400 },
-    "description": "Large arcade near the Feyenoord Stadium with VR, racing, and ticket games.",
+    "description": "Located next to the iconic Feyenoord Stadium, Gamestate De Kuip is a vibrant, modern arcade featuring a wide range of games. From thrilling racing simulators and VR shooters to claw machines and basketball hoops. this is the ultimate spot for competitive gamers and casual fun-seekers alike.",
     "image": "https://www.gamestate.com/en/de-kuip/image.jpg"
   },
   {
     "id": "2",
     "name": "160K Retro Video Arcade",
     "coordinates": { "latitude": 51.9241, "longitude": 4.4720 },
-    "description": "Retro arcade near Central Station with classics like Pac-Man and pinball.",
+    "description": "Step back in time at 160K Retro Video Arcade. This cozy arcade near Rotterdam Centraal is packed with nostalgic classics like Pac-Man, Street Fighter, and pinball machines. It's a must-visit for old-school gamers and anyone craving a vintage gaming vibe.",
     "image": "https://www.160k.nl/arcade.jpg"
   },
   {
     "id": "3",
     "name": "Adventure City Rotterdam",
     "coordinates": { "latitude": 51.9060, "longitude": 4.4850 },
-    "description": "Indoor theme park with laser tag, climbing walls, and interactive games.",
+    "description": "Adventure City is more than just a play center. it's a full-blown indoor theme park with climbing walls, laser tag arenas, and interactive games. Perfect for younger players and families looking to explore action-packed adventures in a safe and exciting environment.",
     "image": "https://tripadvisor.com/adventurecity.jpg"
   },
   {
     "id": "4",
     "name": "Lasergame Rotterdam",
     "coordinates": { "latitude": 51.9075, "longitude": 4.4875 },
-    "description": "Indoor laser tag arena located in the city center, perfect for action lovers.",
+    "description": "Enter a futuristic battleground with flashing lights, pumping music, and adrenaline-fueled laser tag missions. Lasergame Rotterdam is an immersive experience where strategy and reflexes combine. ideal for groups, parties, or team-building fun.",
     "image": "https://tripadvisor.com/lasergame.jpg"
   },
   {
     "id": "5",
-    "name": "Zero Latency VR Rotterdam",
+    "name": "Zero Latency VR",
     "coordinates": { "latitude": 51.9100, "longitude": 4.4900 },
-    "description": "Free-roam VR multiplayer experience with sci-fi and zombie games.",
+    "description": "Zero Latency offers a mind-blowing, free-roam virtual reality experience. Team up with friends in massive VR arenas where you walk, shoot, dodge, and survive zombie apocalypses or sci-fi battles, no wires, no limits.",
     "image": "https://tripadvisor.com/zerolatency.jpg"
   },
   {
     "id": "6",
     "name": "VR4play",
     "coordinates": { "latitude": 51.9120, "longitude": 4.4920 },
-    "description": "Virtual reality arcade with multiple game types and immersive adventures.",
+    "description": "VR4play is a dedicated virtual reality center where you can explore various experiences from heart-pounding horror games to relaxing underwater explorations. Whether you're a solo player or coming with friends, VR4play offers something unforgettable.",
     "image": "https://tripadvisor.com/vr4play.jpg"
   },
   {
     "id": "7",
     "name": "Jump-010",
     "coordinates": { "latitude": 51.9110, "longitude": 4.4880 },
-    "description": "Jump park and activity center with trampolines and VR challenges.",
+    "description": "Jump-010 combines high-energy fun with interactive tech. Bounce through trampolines, try out parkour tricks, and test your reflexes in augmented challenges. A perfect blend of physical play and digital engagement for all ages.",
     "image": "https://tripadvisor.com/jump010.jpg"
   },
   {
     "id": "8",
     "name": "Dutch Pinball Museum",
     "coordinates": { "latitude": 51.9200, "longitude": 4.4800 },
-    "description": "Play dozens of working pinball machines from all eras in this cool museum.",
+    "description": "Dutch Pinball Museum more than just a museum, this hidden gem lets you actually play on dozens of authentic pinball machines dating from the 1930s to today. The Dutch Pinball Museum is a paradise for tinkerers, collectors, and flipper fans alike.",
     "image": "https://yelp.com/dutchpinball.jpg"
   },
   {
     "id": "9",
     "name": "Game Mania Rotterdam",
     "coordinates": { "latitude": 51.9238, "longitude": 4.4794 },
-    "description": "Popular game store for consoles, new titles, and pre-owned games.",
+    "description": "Looking to buy the latest console or a rare retro game? Game Mania is Rotterdam’s go-to gaming store, offering everything from PlayStation and Xbox titles to Nintendo Switch accessories and limited edition collectibles.",
     "image": "https://yelp.com/gamemania.jpg"
   },
   {
     "id": "10",
     "name": "CeX Rotterdam",
     "coordinates": { "latitude": 51.9230, "longitude": 4.4780 },
-    "description": "Buy and sell used games, consoles, phones, and accessories.",
+    "description": "CeX (Complete Entertainment eXchange) is your hub for trading, buying, and selling second-hand games, phones, consoles, and DVDs. Great for budget-conscious gamers or collectors hunting for surprises.",
     "image": "https://yelp.com/cex.jpg"
   },
   {
     "id": "11",
     "name": "The Game Galaxy (Zuidplein)",
     "coordinates": { "latitude": 51.8850, "longitude": 4.5190 },
-    "description": "Game and collectibles store for Funko Pops, Pokémon, and more.",
+    "description": "Tucked inside Zuidplein, The Game Galaxy is a colorful store packed with games, Funko Pops, Pokémon cards, and geek culture goodies. Whether you’re a competitive TCG player or casual collector, this place will make you smile.",
     "image": "https://galaxystores.nl/zuidplein.jpg"
   },
   {
     "id": "12",
     "name": "Happy Gamer",
     "coordinates": { "latitude": 51.9170, "longitude": 4.5450 },
-    "description": "Local shop offering retro and modern games and accessories.",
+    "description": "Happy Gamer is a local favorite for retro consoles, classic video games, and accessories. From NES cartridges to rare handhelds, this shop is a goldmine for nostalgic gamers and curious newbies.",
     "image": "https://happygamer.nl/gallery.jpg"
   },
   {
     "id": "13",
     "name": "Tabletop Rotterdam",
     "coordinates": { "latitude": 51.9150, "longitude": 4.4760 },
-    "description": "Cozy board game café with tabletop events and a geeky community.",
+    "description": "Board games, card games, D&D nights. Tabletop Rotterdam is the home for analog gamers. With a cozy café vibe and regular events, it’s a welcoming space for nerdy fun and community building.",
     "image": "https://findgeekspots.com/tabletop.jpg"
   },
   {
     "id": "14",
     "name": "POW! WOW! Gaming Lounge",
     "coordinates": { "latitude": 51.9109, "longitude": 4.4761 },
-    "description": "Chill lounge with console gaming, retro stations, and multiplayer setups.",
+    "description": "POW! WOW! is a chill lounge where you can kick back with your favorite console titles, old and new. Grab a drink, challenge a friend, or just vibe with retro classics in a laid-back atmosphere.",
     "image": "https://unsplash.com/consolelounge.jpg"
   },
   {
     "id": "15",
     "name": "Blast Galaxy Arcade",
     "coordinates": { "latitude": 51.9185, "longitude": 4.4800 },
-    "description": "Small arcade with modern and retro cabinets, perfect for short sessions.",
+    "description": "A cozy hidden gem for arcade lovers, Blast Galaxy blends nostalgic machines with modern cabinets and indie rhythm games. It’s compact but packed with variety perfect for short gaming breaks.",
     "image": "https://yelp.com/blastgalaxy.jpg"
   }
 ]
