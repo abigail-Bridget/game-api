@@ -1,0 +1,107 @@
+[
+  {
+    "id": "1",
+    "name": "Gamestate De Kuip",
+    "coordinates": { "latitude": 51.8659, "longitude": 4.5400 },
+    "description": "Large arcade near the Feyenoord Stadium with VR, racing, and ticket games.",
+    "image": "https://www.gamestate.com/en/de-kuip/image.jpg"
+  },
+  {
+    "id": "2",
+    "name": "160K Retro Video Arcade",
+    "coordinates": { "latitude": 51.9241, "longitude": 4.4720 },
+    "description": "Retro arcade near Central Station with classics like Pac-Man and pinball.",
+    "image": "https://www.160k.nl/arcade.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Adventure City Rotterdam",
+    "coordinates": { "latitude": 51.9060, "longitude": 4.4850 },
+    "description": "Indoor theme park with laser tag, climbing walls, and interactive games.",
+    "image": "https://tripadvisor.com/adventurecity.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Lasergame Rotterdam",
+    "coordinates": { "latitude": 51.9075, "longitude": 4.4875 },
+    "description": "Indoor laser tag arena located in the city center, perfect for action lovers.",
+    "image": "https://tripadvisor.com/lasergame.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Zero Latency VR Rotterdam",
+    "coordinates": { "latitude": 51.9100, "longitude": 4.4900 },
+    "description": "Free-roam VR multiplayer experience with sci-fi and zombie games.",
+    "image": "https://tripadvisor.com/zerolatency.jpg"
+  },
+  {
+    "id": "6",
+    "name": "VR4play",
+    "coordinates": { "latitude": 51.9120, "longitude": 4.4920 },
+    "description": "Virtual reality arcade with multiple game types and immersive adventures.",
+    "image": "https://tripadvisor.com/vr4play.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Jump-010",
+    "coordinates": { "latitude": 51.9110, "longitude": 4.4880 },
+    "description": "Jump park and activity center with trampolines and VR challenges.",
+    "image": "https://tripadvisor.com/jump010.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Dutch Pinball Museum",
+    "coordinates": { "latitude": 51.9200, "longitude": 4.4800 },
+    "description": "Play dozens of working pinball machines from all eras in this cool museum.",
+    "image": "https://yelp.com/dutchpinball.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Game Mania Rotterdam",
+    "coordinates": { "latitude": 51.9238, "longitude": 4.4794 },
+    "description": "Popular game store for consoles, new titles, and pre-owned games.",
+    "image": "https://yelp.com/gamemania.jpg"
+  },
+  {
+    "id": "10",
+    "name": "CeX Rotterdam",
+    "coordinates": { "latitude": 51.9230, "longitude": 4.4780 },
+    "description": "Buy and sell used games, consoles, phones, and accessories.",
+    "image": "https://yelp.com/cex.jpg"
+  },
+  {
+    "id": "11",
+    "name": "The Game Galaxy (Zuidplein)",
+    "coordinates": { "latitude": 51.8850, "longitude": 4.5190 },
+    "description": "Game and collectibles store for Funko Pops, Pokémon, and more.",
+    "image": "https://galaxystores.nl/zuidplein.jpg"
+  },
+  {
+    "id": "12",
+    "name": "Happy Gamer",
+    "coordinates": { "latitude": 51.9170, "longitude": 4.5450 },
+    "description": "Local shop offering retro and modern games and accessories.",
+    "image": "https://happygamer.nl/gallery.jpg"
+  },
+  {
+    "id": "13",
+    "name": "Tabletop Rotterdam",
+    "coordinates": { "latitude": 51.9150, "longitude": 4.4760 },
+    "description": "Cozy board game café with tabletop events and a geeky community.",
+    "image": "https://findgeekspots.com/tabletop.jpg"
+  },
+  {
+    "id": "14",
+    "name": "POW! WOW! Gaming Lounge",
+    "coordinates": { "latitude": 51.9109, "longitude": 4.4761 },
+    "description": "Chill lounge with console gaming, retro stations, and multiplayer setups.",
+    "image": "https://unsplash.com/consolelounge.jpg"
+  },
+  {
+    "id": "15",
+    "name": "Blast Galaxy Arcade",
+    "coordinates": { "latitude": 51.9185, "longitude": 4.4800 },
+    "description": "Small arcade with modern and retro cabinets, perfect for short sessions.",
+    "image": "https://yelp.com/blastgalaxy.jpg"
+  }
+]
